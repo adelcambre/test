@@ -1,5 +1,0 @@
-# Win
-
-asdf
-asdf
-asdf
