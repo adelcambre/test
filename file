@@ -1,6 +1,6 @@
 # GitHub
 
-This is GitHub.com and GitHub Enterprise.
+This is GitHub.com and GH:E.
 
 ## Documentation
 
@@ -17,8 +17,8 @@ Check the [getting started][start] docs for more detailed instructions.
     $ script/bootstrap
     $ script/setup
     $ script/server
-    $ open http://github.dev
 
 [start]: docs/README.md#getting-started
 [process]: docs/README.md#process-and-philosophy
 [stack]: docs/README.md#the-githubcom-tech-stack
+Some stuff
