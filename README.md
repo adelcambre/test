@@ -2,4 +2,4 @@
 
 This is a test.
 
-:heart: :metal:
+:heart: :heart_eyes:
