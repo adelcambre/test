@@ -1,1 +1,1 @@
-foo/foo.md
+foo/foo
