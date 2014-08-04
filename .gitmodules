@@ -5,4 +5,21 @@
   path = .\\external\\Cello
   url = https://github.com/EvansThomas/Cello.git
   ignore = dirty
-
+[submodule "playground"]
+  path = playground
+  url = git://github.com/githubhelp/playground.git
+[submodule "playground-https"]
+  path = playground-https
+  url = https://github.com/githubhelp/playground.git
+[submodule "git # test"]
+  path = "git # test"
+  url = https://github.com/githubhelp/playground.git
+[submodule "git      test"]
+  path = git \t test
+  url = https://github.com/githubhelp/playground.git
+[submodule "git \\ test"]
+  path = git \\ test
+  url = https://github.com/githubhelp/playground.git
+[submodule "git \"boom\" test"]
+  path = git \"boom\" test
+  url = https://github.com/githubhelp/playground.git
