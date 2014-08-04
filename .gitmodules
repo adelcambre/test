@@ -1,3 +1,8 @@
 [submodule "no_op"]
 	path = no_op
 	url = git@github.com:ymendel/no_op.git
+[submodule ".\\external\\Cello"]
+  path = .\\external\\Cello
+  url = https://github.com/EvansThomas/Cello.git
+  ignore = dirty
+
