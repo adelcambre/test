@@ -26,4 +26,4 @@
 [submodule "foo/bar.baz&bang"]
 	path = 123.abc.you.and.me
 	url = git@github.com:ymendel/no_op.git
-	branch = submod
+	branch = master
