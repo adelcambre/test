@@ -3,3 +3,5 @@
 
 *.c indent_style=tab
 *.c indent_size=8
+
+*.ro linguist-language=Ruby
