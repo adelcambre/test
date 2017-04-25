@@ -1,0 +1,5 @@
+class Foo
+  def asdf
+    puts("Win")
+  end
+end
